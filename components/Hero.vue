@@ -3,7 +3,7 @@
     <div class="Hero__mainText">
       <h1>Moynure</h1>
       <h3>Web design</h3>
-      <p class="Hero__subtitle py-2 mt-5 pl-2">
+      <p class="Hero__subtitle py-2 mt-5 pl-3">
         Simple, beautiful, easy-to-use websites
       </p>
     </div>
@@ -18,7 +18,7 @@ export default {};
   background-color: rgba($red-3, 0.8);
   background-blend-mode: multiply;
   width: 100%;
-  height: 650px;
+  height: 450px;
   display: flex;
   align-items: center;
 
@@ -29,7 +29,7 @@ export default {};
 
     h1,
     h3 {
-      margin-left: 150px;
+      margin-left: 72.5px;
     }
 
     h3 {
@@ -41,7 +41,7 @@ export default {};
       margin-top: 60px;
       background: rgba(white, 0.8);
       width: 55%;
-      margin-left: 150px;
+      margin-left: 72.5px;
       display: inline-block;
       position: relative;
 

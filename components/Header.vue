@@ -23,6 +23,7 @@ export default {};
 .Header {
   height: auto;
   width: 100%;
+  padding: 0 72.5px 0 48.5px;
 
   .Header__logo {
     width: 140px;
